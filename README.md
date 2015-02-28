@@ -7,5 +7,5 @@
    A map is an abstract data type composed of a collection of (key, value) pairs, such that each possible key appears at most once in the collection. Put another way, it is a collection of unordered values accessed by key rather than by index.
    An interactive main-program that uses your contact manager is supplied for fun and glory.
    
-  * I have one project that builds on this one at [I'm an inline-style link](https://github.com/Kristjan93/HASH_TABLES)
+  * I have one project that builds on this one [here](https://github.com/Kristjan93/HASH_TABLES)
   * More information about the project can be found in projectDescription.pdf
